@@ -1408,3 +1408,5 @@
 @@||yt3.ggpht.com^$important
 @@||zenz-solutions.de^$important
 @@||zerossl.ocsp.sectigo.com^$important
+@@||pinterest.com^$important
+@@||id.pinterest.com^$important
